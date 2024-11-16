@@ -1,4 +1,4 @@
-# MentalHealthIndicator_IITBHU
+# MentalHealthIndicator - IITBHU
 The below description was recieved for the Hackathon Jagriti by IITBHU, as participated. This file contains solution for the same.
 
 
