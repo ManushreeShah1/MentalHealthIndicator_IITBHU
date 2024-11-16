@@ -1,5 +1,7 @@
 # MentalHealthIndicator_IITBHU
 The below description was recieved for the Hackathon Jagriti by IITBHU, as participated. This file contains solution for the same.
+
+
 In response to the growing awareness of mental health
 issues, there is an urgent demand for the creation of
 practical tools that can aid individuals in identifying and
